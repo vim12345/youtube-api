@@ -1,0 +1,32 @@
+{
+	"name": "jully-theme",
+	"displayName": "Jully Theme",
+	"description": "A theme for Jully",
+	"version": "0.0.1",
+	"publisher": "alexdev",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Jully Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jully Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "61d31ef1-b36c-4f50-92be-d5ee23e9b086",
+		"publisherId": "b4c66774-bb52-4664-a537-96aa92e498cb",
+		"publisherDisplayName": "Alexander Santos",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1682314553499,
+		"preRelease": false
+	}
+}
